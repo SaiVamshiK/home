@@ -8,7 +8,7 @@ import Resume from '../assets/SaiVamshiResume.pdf';
 function Navbar(){
 	return <div>
             <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-            <a className="navbar-brand pl-2" href="https://saivamshik.github.io/SaiVamshi-Portfolio/" style={{color: "#93329e"}}> &lt; SaiVamshi &#47;&gt;</a>
+            <a className="navbar-brand pl-2" href="https://SaiVamshiK.github.io/SaiVamshiK-Portfolio" style={{color: "#93329e"}}> &lt; SaiVamshi &#47;&gt;</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation" style={{border: "2px solid black", outline: "none"}}> 
                 <FontAwesomeIcon icon = {faBars} style={{
                     color: "black",
