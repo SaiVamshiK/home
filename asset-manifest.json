@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.fa44d662.chunk.css",
+    "main.js": "/home/static/js/main.1f342581.chunk.js",
+    "main.js.map": "/home/static/js/main.1f342581.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.acfc2804.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.acfc2804.js.map",
+    "static/css/2.2295ac45.chunk.css": "/home/static/css/2.2295ac45.chunk.css",
+    "static/js/2.4c3bc84a.chunk.js": "/home/static/js/2.4c3bc84a.chunk.js",
+    "static/js/2.4c3bc84a.chunk.js.map": "/home/static/js/2.4c3bc84a.chunk.js.map",
+    "index.html": "/home/index.html",
+    "static/css/2.2295ac45.chunk.css.map": "/home/static/css/2.2295ac45.chunk.css.map",
+    "static/css/main.fa44d662.chunk.css.map": "/home/static/css/main.fa44d662.chunk.css.map",
+    "static/js/2.4c3bc84a.chunk.js.LICENSE.txt": "/home/static/js/2.4c3bc84a.chunk.js.LICENSE.txt",
+    "static/media/SaiVamshi.d101f50b.jpg": "/home/static/media/SaiVamshi.d101f50b.jpg",
+    "static/media/SaiVamshiResume.7d3ee829.pdf": "/home/static/media/SaiVamshiResume.7d3ee829.pdf",
+    "static/media/style.css": "/home/static/media/img2.acd12770.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acfc2804.js",
+    "static/css/2.2295ac45.chunk.css",
+    "static/js/2.4c3bc84a.chunk.js",
+    "static/css/main.fa44d662.chunk.css",
+    "static/js/main.1f342581.chunk.js"
+  ]
+}
